@@ -84,6 +84,7 @@ a {
 }
 .hero-button:hover {
   background-color: #404bbf;
+  cursor: pointer;
 }
 
 /* about */
